@@ -15,7 +15,10 @@ By this REST API project named Financial Transaction & User Management , it cove
 -  ```npm i```
 - ```npm test```
 - Report will be generated in Reports folder!
-  
+
+# API Documentation:
+https://documenter.getpostman.com/view/44303613/2sB2j97968
+
 # Test Case File
 https://docs.google.com/spreadsheets/d/1IyRMhygtR9hIxPk1hEhL6NXqlI2lpgkhdFcOXz2KGYI/edit?usp=sharing
 
